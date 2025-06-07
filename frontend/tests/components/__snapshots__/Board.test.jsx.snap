@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on Board should render Board 1`] = `
+<div>
+  <div
+    class="mb-[60px] max-w-fit mx-auto"
+  >
+    <div
+      class=" row flex  gap-2  justify-between  mb-2"
+    >
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+    </div>
+    <div
+      class=" row  flex  gap-2  justify-between  mb-2"
+    >
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+    </div>
+    <div
+      class=" row  flex  gap-2  justify-between  mb-2"
+    >
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+    </div>
+    <div
+      class=" row  flex  gap-2  justify-between  mb-2"
+    >
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+    </div>
+    <div
+      class=" row  flex  gap-2  justify-between  mb-2"
+    >
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+      <div
+        class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+      >
+        L
+      </div>
+    </div>
+  </div>
+</div>
+`;
