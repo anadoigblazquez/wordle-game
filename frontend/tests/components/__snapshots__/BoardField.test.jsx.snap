@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on BoardField Should match snapshot 1`] = `
+<div>
+  <div
+    class=" h-[62px]  w-[62px]  border border-gray-200 flex justify-center content-center flex-wrap text-2xl font-bold"
+  >
+    L
+  </div>
+</div>
+`;
