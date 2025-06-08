@@ -2,7 +2,7 @@ import './App.css';
 
 import Board from './components/Board';
 import KeyBoard from './components/KeyBoard';
-import FailMessage from './components/FailMessage';
+import EndOffGameMessage from './components/EndOffGameMessage';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
@@ -26,7 +26,7 @@ function App() {
 
           <Board  />
           <KeyBoard />
-          <FailMessage />
+          <EndOffGameMessage />
 
         </main>
 

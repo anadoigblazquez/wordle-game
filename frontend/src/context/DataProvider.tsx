@@ -1,5 +1,7 @@
 import { DataContext } from "./DataContext";
 
+
+// Provisional
 type ProvisionalType = {
   children: any
 }
@@ -7,7 +9,6 @@ type ProvisionalType = {
 const DataProvider = ({ children }: ProvisionalType ) => {
   // Obetener datos desde custom hook de llamadas a la API
 
-  
   return (
     <DataContext.Provider value={{ word: 'ESAVE' }}>
         { children }
