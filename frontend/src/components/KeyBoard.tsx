@@ -15,7 +15,7 @@ const KeyBoard = () => {
       {
         letrasProvisional.map( (key) => {
           return (
-            <Key key='key' keyLetter={key} />
+            <Key key={key} keyLetter={key} />
           )
         } )
       }
@@ -27,7 +27,7 @@ const KeyBoard = () => {
       {
         letrasProvisional2.map( (key) => {
           return (
-            <Key key='key' keyLetter={key} />
+            <Key key={key} keyLetter={key} />
           )
         } )
       }
@@ -38,7 +38,7 @@ const KeyBoard = () => {
       {
         letrasProvisional3.map( (key) => {
           return (
-            <Key key='key' keyLetter={key} />
+            <Key key={key} keyLetter={key} />
           )
         } )
       }

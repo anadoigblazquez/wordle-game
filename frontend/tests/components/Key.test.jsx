@@ -1,4 +1,4 @@
-import { render } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import Key from '../../src/components/Key';
 
 describe('Tests on Key component', () =>  {
@@ -8,5 +8,4 @@ describe('Tests on Key component', () =>  {
         const { container } = render( <Key className={ className } /> );
         expect( container ).toMatchSnapshot();
     })
-    
 })

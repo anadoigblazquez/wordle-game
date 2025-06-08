@@ -6,11 +6,13 @@ import FailMessage from './components/FailMessage';
 import Header from './components/Header';
 import Footer from './components/Footer';
 
+import DataProvider from './context/DataProvider';
+
 function App() {
   
 
   return (
-    <>
+    <DataProvider>
         <Header />
 
         <main className="
@@ -30,7 +32,7 @@ function App() {
 
         <Footer />
       
-    </>
+    </DataProvider>
   )
 }
 

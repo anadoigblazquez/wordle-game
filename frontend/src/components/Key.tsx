@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 
 type Letter = {
   keyLetter: string
@@ -24,3 +25,7 @@ const Key = ({ keyLetter }: Letter) => {
 }
 
 export default Key
+
+Key.propTypes = {
+  keyLetter: PropTypes.string.isRequired,
+}

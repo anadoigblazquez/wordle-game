@@ -11,7 +11,7 @@ const BoardField = () => {
       content-center
       flex-wrap
       text-2xl
-      font-bold">L</div>
+      font-bold"></div>
   )
 }
 
